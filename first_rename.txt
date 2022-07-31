@@ -1,0 +1,6 @@
+i want this to go to commit
+changed by me
+this is changed now
+cbkjdb
+this is from master
+this us added at bug fix branch
